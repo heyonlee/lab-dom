@@ -31,11 +31,12 @@ DOM's personal website title is a bit wordy. Write a JavaScript statement that s
 
 #### Part 2
 
-Select the `body` and change the background-color to a new color of your choice.
+Select the `body` and change the background-color to a new color of your choice. //
 
 #### Part 3
 
 Select **DOM's Favorite Things** list and remove the last list item.
+// document.body.firstChild[5]
 
 #### Part 4
 
